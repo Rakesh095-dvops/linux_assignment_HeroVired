@@ -205,7 +205,7 @@ Both servers require regular backups to a secure location for disaster recovery.
 +  Save the backups as compressed files in /backups/ with filenames including the server name and date (e.g., apache_backup_YYYY-MM-DD.tar.gz).
 +  Verify the backup integrity after each run by listing the contents of the compressed file.
 -------
-## Detailed steps -TO DO
+## Detailed steps
 
 1. Install Apache for Sarah and Ngnix for mike. 
     - login with mike and install Nginx 
