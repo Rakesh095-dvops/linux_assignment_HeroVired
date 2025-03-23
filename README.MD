@@ -248,6 +248,9 @@ Both servers require regular backups to a secure location for disaster recovery.
             chmod +x /home/Sarah/sarah_backup.sh
             chmod +x /home/mike/mike_backup.sh
         ```
+        - ![alt text](image-11.png) 
+        - ![alt text](image-12.png) 
+        ```refer log files "mike_backupScript_run_console" and  "Sarah_backupScript_run_console" ````
 5. Configure Cron Jobs:
     - Sarah's Cron Job:
         - Log in as Sarah: ```sudo su - Sarah```
