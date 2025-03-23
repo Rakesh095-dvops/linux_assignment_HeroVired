@@ -118,7 +118,6 @@ Security policies must ensure proper password management and access restrictions
         - commands like ls and others are woking 
         - Sarah tried to access the mike folder but unable to acess mike or other workspace. Also she won't be able to view or create any folder except  ***/home/Sarah/workspace***
             - ![alt text](image-3.png)
-            - ![alt text](image-4.png)
         - tested same with user mike and got similar results
 4. Implementing Password Policy (Password Expiration and Complexity)
 
@@ -213,12 +212,15 @@ Both servers require regular backups to a secure location for disaster recovery.
         sudo apt update
         sudo apt install nginx
         ```
+        ![alt text](image-9.png)
+
+        ![alt text](image-8.png)
     - login with Sarah and install Apache
         ```
         sudo apt update
         sudo apt install apache2 
         ``` 
-        - Sarah can now modify Apache's configuration files in /etc/apache2/. She has the necessary permissions to modify files in /var/www/html/  verfied the same using ```ls -l ```
+        - Sarah can now modify Apache's configuration files in /etc/apache2/. She has the necessary permissions to modify files in /var/www/html/  verified the same using ```ls -l ```
         - modify ```ports.conf``` to 8080 ```Listen```
         - ```sudo systemctl restart apache2``` - Restart apache2 
         - ```sudo systemctl start apache2``` - start the apache2
@@ -228,7 +230,7 @@ Both servers require regular backups to a secure location for disaster recovery.
             ![alt text](image-6.png)
        
 
-3. Create a central location for the Logging location for apache and Nginx 
+3. Create a central location for the Logging location for Apache and Nginx 
     - Create a group adm 
     - add mike and Sarah access to adm 
     - Create backup folder and provide access 
@@ -267,9 +269,12 @@ Both servers require regular backups to a secure location for disaster recovery.
     - ***Check Cron Jobs:***:
          After adding the cron jobs, you can verify they are scheduled by running crontab -l as each user.
     - ***Check the /backups/ directory***: 
-        After the first Tuesday after setup, verify that the backup files apache_backup_YYYY-MM-DD.tar.gz and nginx_backup_YYYY-MM-DD.tar.gz are created in the /backups/            directory.
+        After the first Tuesday after setup, verify that the backup files apache_backup_YYYY-MM-DD.tar.gz and nginx_backup_YYYY-MM-DD.tar.gz are created in the /backups/ directory.
     - ***Check the /var/log/backup_log{APACHE2/NGINX}.txt file*** : 
-        Examine this file to see the output of the backup verification steps. This provides a log of successful backups and any potential errors. You might need to create           this file and ensure it has the correct permissions for the users to write to it.
+        Examine this file to see the output of the backup verification steps. This provides a log of successful backups and any potential errors. You might need to create this file and ensure it has the correct permissions for the users to write to it.
+
+        ![alt text](Sarah_cron_tab.png)
+        ![alt text](mike_cron_tab.png)
 
 
 
