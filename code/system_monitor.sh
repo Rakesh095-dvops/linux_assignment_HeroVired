@@ -87,7 +87,7 @@ do
   echo "--- CPU and Memory Usage  --- completed"  
 
   # Disk Usage (df) & Top directories by disk usage (du)
-  echo "--- Disk Usage anaysis--- started"  
+  echo "--- Disk Usage analysis--- started"  
  
   for mount_point in "${MOUNT_POINTS[@]}"; 
   do
@@ -106,12 +106,12 @@ do
   echo "--- Disk Usage anaysis --- completed"  
 
   # Resource-Intensive Processes
-  echo "--- Resource-Intensive Processes analyis --- started"  
+  echo "--- Resource-Intensive Processes analysis --- started"  
   log_message "--- Top $TOP_PROCESS_COUNT Resource-Intensive Processes ---"
   get_top_processes >> "$LOG_FILE"  
 
   sleep $SLEEP_COUNTER  
-  echo "--- Resource-Intensive Processes anayis --- completed"  
+  echo "--- Resource-Intensive Processes analysis --- completed"  
 
   log_message "--- End of Report ($TIMESTAMP) ---"
 
