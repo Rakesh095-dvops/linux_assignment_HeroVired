@@ -1,0 +1,399 @@
+Sarah@RIKSLAPTOP:~$ sudo ./Sarah_backup.sh 
+tar: Removing leading `/' from member names
+/etc/apache2/
+/etc/apache2/mods-available/
+/etc/apache2/mods-available/cgid.load
+tar: Removing leading `/' from hard link targets
+/etc/apache2/mods-available/authn_socache.load
+/etc/apache2/mods-available/slotmem_plain.load
+/etc/apache2/mods-available/proxy.load
+/etc/apache2/mods-available/info.conf
+/etc/apache2/mods-available/mpm_worker.load
+/etc/apache2/mods-available/dav.load
+/etc/apache2/mods-available/charset_lite.load
+/etc/apache2/mods-available/rewrite.load
+/etc/apache2/mods-available/authz_host.load
+/etc/apache2/mods-available/cache_disk.conf
+/etc/apache2/mods-available/mime.conf
+/etc/apache2/mods-available/ext_filter.load
+/etc/apache2/mods-available/headers.load
+/etc/apache2/mods-available/alias.load
+/etc/apache2/mods-available/status.conf
+/etc/apache2/mods-available/dir.load
+/etc/apache2/mods-available/session.load
+/etc/apache2/mods-available/info.load
+/etc/apache2/mods-available/vhost_alias.load
+/etc/apache2/mods-available/setenvif.load
+/etc/apache2/mods-available/http2.load
+/etc/apache2/mods-available/asis.load
+/etc/apache2/mods-available/socache_shmcb.load
+/etc/apache2/mods-available/lbmethod_bybusyness.load
+/etc/apache2/mods-available/lbmethod_byrequests.load
+/etc/apache2/mods-available/imagemap.load
+/etc/apache2/mods-available/cgid.conf
+/etc/apache2/mods-available/negotiation.load
+/etc/apache2/mods-available/expires.load
+/etc/apache2/mods-available/dbd.load
+/etc/apache2/mods-available/socache_redis.load
+/etc/apache2/mods-available/authz_groupfile.load
+/etc/apache2/mods-available/proxy_hcheck.load
+/etc/apache2/mods-available/brotli.load
+/etc/apache2/mods-available/userdir.load
+/etc/apache2/mods-available/authn_file.load
+/etc/apache2/mods-available/cache.load
+/etc/apache2/mods-available/usertrack.load
+/etc/apache2/mods-available/remoteip.load
+/etc/apache2/mods-available/authn_core.load
+/etc/apache2/mods-available/dump_io.load
+/etc/apache2/mods-available/authnz_ldap.load
+/etc/apache2/mods-available/heartmonitor.load
+/etc/apache2/mods-available/echo.load
+/etc/apache2/mods-available/substitute.load
+/etc/apache2/mods-available/include.load
+/etc/apache2/mods-available/dialup.load
+/etc/apache2/mods-available/deflate.load
+/etc/apache2/mods-available/dav_fs.load
+/etc/apache2/mods-available/slotmem_shm.load
+/etc/apache2/mods-available/session_dbd.load
+/etc/apache2/mods-available/auth_basic.load
+/etc/apache2/mods-available/session_crypto.load
+/etc/apache2/mods-available/proxy_express.load
+/etc/apache2/mods-available/dav_lock.load
+/etc/apache2/mods-available/ident.load
+/etc/apache2/mods-available/env.load
+/etc/apache2/mods-available/auth_digest.load
+/etc/apache2/mods-available/proxy_scgi.load
+/etc/apache2/mods-available/mpm_prefork.conf
+/etc/apache2/mods-available/authnz_fcgi.load
+/etc/apache2/mods-available/proxy_fcgi.load
+/etc/apache2/mods-available/lua.load
+/etc/apache2/mods-available/proxy_html.conf
+/etc/apache2/mods-available/authz_user.load
+/etc/apache2/mods-available/suexec.load
+/etc/apache2/mods-available/reqtimeout.load
+/etc/apache2/mods-available/proxy_fdpass.load
+/etc/apache2/mods-available/filter.load
+/etc/apache2/mods-available/lbmethod_heartbeat.load
+/etc/apache2/mods-available/log_forensic.load
+/etc/apache2/mods-available/file_cache.load
+/etc/apache2/mods-available/alias.conf
+/etc/apache2/mods-available/auth_form.load
+/etc/apache2/mods-available/authn_dbm.load
+/etc/apache2/mods-available/socache_memcache.load
+/etc/apache2/mods-available/lbmethod_bytraffic.load
+/etc/apache2/mods-available/proxy.conf
+/etc/apache2/mods-available/reqtimeout.conf
+/etc/apache2/mods-available/ssl.load
+/etc/apache2/mods-available/ssl.conf
+/etc/apache2/mods-available/proxy_http2.load
+/etc/apache2/mods-available/unique_id.load
+/etc/apache2/mods-available/xml2enc.load
+/etc/apache2/mods-available/proxy_ftp.conf
+/etc/apache2/mods-available/session_cookie.load
+/etc/apache2/mods-available/macro.load
+/etc/apache2/mods-available/mime_magic.load
+/etc/apache2/mods-available/socache_dbm.load
+/etc/apache2/mods-available/proxy_http.load
+/etc/apache2/mods-available/heartbeat.load
+/etc/apache2/mods-available/ldap.conf
+/etc/apache2/mods-available/mpm_prefork.load
+/etc/apache2/mods-available/http2.conf
+/etc/apache2/mods-available/userdir.conf
+/etc/apache2/mods-available/speling.load
+/etc/apache2/mods-available/proxy_html.load
+/etc/apache2/mods-available/proxy_connect.load
+/etc/apache2/mods-available/authz_core.load
+/etc/apache2/mods-available/authz_owner.load
+/etc/apache2/mods-available/request.load
+/etc/apache2/mods-available/mime_magic.conf
+/etc/apache2/mods-available/actions.conf
+/etc/apache2/mods-available/authn_anon.load
+/etc/apache2/mods-available/mpm_event.conf
+/etc/apache2/mods-available/buffer.load
+/etc/apache2/mods-available/negotiation.conf
+/etc/apache2/mods-available/dir.conf
+/etc/apache2/mods-available/deflate.conf
+/etc/apache2/mods-available/reflector.load
+/etc/apache2/mods-available/actions.load
+/etc/apache2/mods-available/cgi.load
+/etc/apache2/mods-available/md.load
+/etc/apache2/mods-available/proxy_balancer.conf
+/etc/apache2/mods-available/proxy_ajp.load
+/etc/apache2/mods-available/mime.load
+/etc/apache2/mods-available/mpm_event.load
+/etc/apache2/mods-available/setenvif.conf
+/etc/apache2/mods-available/sed.load
+/etc/apache2/mods-available/cache_socache.load
+/etc/apache2/mods-available/proxy_uwsgi.load
+/etc/apache2/mods-available/authn_dbd.load
+/etc/apache2/mods-available/allowmethods.load
+/etc/apache2/mods-available/access_compat.load
+/etc/apache2/mods-available/autoindex.load
+/etc/apache2/mods-available/cache_disk.load
+/etc/apache2/mods-available/ratelimit.load
+/etc/apache2/mods-available/mpm_worker.conf
+/etc/apache2/mods-available/proxy_wstunnel.load
+/etc/apache2/mods-available/dav_fs.conf
+/etc/apache2/mods-available/autoindex.conf
+/etc/apache2/mods-available/proxy_balancer.load
+/etc/apache2/mods-available/status.load
+/etc/apache2/mods-available/data.load
+/etc/apache2/mods-available/authz_dbd.load
+/etc/apache2/mods-available/log_debug.load
+/etc/apache2/mods-available/proxy_ftp.load
+/etc/apache2/mods-available/cern_meta.load
+/etc/apache2/mods-available/authz_dbm.load
+/etc/apache2/mods-available/ldap.load
+/etc/apache2/apache2.conf
+/etc/apache2/magic
+/etc/apache2/envvars
+/etc/apache2/ports.conf
+/etc/apache2/sites-enabled/
+/etc/apache2/sites-enabled/000-default.conf
+/etc/apache2/sites-available/
+/etc/apache2/sites-available/default-ssl.conf
+/etc/apache2/sites-available/000-default.conf
+/etc/apache2/conf-available/
+/etc/apache2/conf-available/charset.conf
+/etc/apache2/conf-available/other-vhosts-access-log.conf
+/etc/apache2/conf-available/serve-cgi-bin.conf
+/etc/apache2/conf-available/localized-error-pages.conf
+/etc/apache2/conf-available/security.conf
+/etc/apache2/mods-enabled/
+/etc/apache2/mods-enabled/authz_host.load
+/etc/apache2/mods-enabled/mime.conf
+/etc/apache2/mods-enabled/alias.load
+/etc/apache2/mods-enabled/status.conf
+/etc/apache2/mods-enabled/dir.load
+/etc/apache2/mods-enabled/setenvif.load
+/etc/apache2/mods-enabled/negotiation.load
+/etc/apache2/mods-enabled/authn_file.load
+/etc/apache2/mods-enabled/authn_core.load
+/etc/apache2/mods-enabled/deflate.load
+/etc/apache2/mods-enabled/auth_basic.load
+/etc/apache2/mods-enabled/env.load
+/etc/apache2/mods-enabled/authz_user.load
+/etc/apache2/mods-enabled/reqtimeout.load
+/etc/apache2/mods-enabled/filter.load
+/etc/apache2/mods-enabled/alias.conf
+/etc/apache2/mods-enabled/reqtimeout.conf
+/etc/apache2/mods-enabled/authz_core.load
+/etc/apache2/mods-enabled/mpm_event.conf
+/etc/apache2/mods-enabled/negotiation.conf
+/etc/apache2/mods-enabled/dir.conf
+/etc/apache2/mods-enabled/deflate.conf
+/etc/apache2/mods-enabled/mime.load
+/etc/apache2/mods-enabled/mpm_event.load
+/etc/apache2/mods-enabled/setenvif.conf
+/etc/apache2/mods-enabled/access_compat.load
+/etc/apache2/mods-enabled/autoindex.load
+/etc/apache2/mods-enabled/autoindex.conf
+/etc/apache2/mods-enabled/status.load
+/etc/apache2/conf-enabled/
+/etc/apache2/conf-enabled/charset.conf
+/etc/apache2/conf-enabled/other-vhosts-access-log.conf
+/etc/apache2/conf-enabled/serve-cgi-bin.conf
+/etc/apache2/conf-enabled/localized-error-pages.conf
+/etc/apache2/conf-enabled/security.conf
+/var/www/html/
+/var/www/html/index.nginx-debian.html
+/var/www/html/index.html
+Contents of /backups/apache_backup_2025-03-23.tar.gz:
+drwxr-xr-x root/root         0 2025-03-23 19:25 etc/apache2/
+drwxr-xr-x root/root         0 2025-03-23 19:13 etc/apache2/mods-available/
+-rw-r--r-- root/root        60 2024-03-18 17:11 etc/apache2/mods-available/cgid.load
+-rw-r--r-- root/root        78 2024-03-18 17:11 etc/apache2/mods-available/authn_socache.load
+-rw-r--r-- root/root        78 2024-03-18 17:11 etc/apache2/mods-available/slotmem_plain.load
+-rw-r--r-- root/root        62 2024-03-18 17:11 etc/apache2/mods-available/proxy.load
+-rw-r--r-- root/root       402 2024-03-18 19:11 etc/apache2/mods-available/info.conf
+-rw-r--r-- root/root       107 2024-03-18 17:11 etc/apache2/mods-available/mpm_worker.load
+-rw-r--r-- root/root        93 2024-03-18 19:11 etc/apache2/mods-available/dav.load
+-rw-r--r-- root/root        76 2024-03-18 17:11 etc/apache2/mods-available/charset_lite.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/rewrite.load
+-rw-r--r-- root/root        94 2024-03-18 17:11 etc/apache2/mods-available/authz_host.load
+-rw-r--r-- root/root       889 2024-03-18 19:11 etc/apache2/mods-available/cache_disk.conf
+-rw-r--r-- root/root      7696 2024-03-18 19:11 etc/apache2/mods-available/mime.conf
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/ext_filter.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/headers.load
+-rw-r--r-- root/root        62 2024-03-18 17:11 etc/apache2/mods-available/alias.load
+-rw-r--r-- root/root       749 2024-03-18 19:11 etc/apache2/mods-available/status.conf
+-rw-r--r-- root/root        58 2024-03-18 17:11 etc/apache2/mods-available/dir.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/session.load
+-rw-r--r-- root/root        60 2024-03-18 17:11 etc/apache2/mods-available/info.load
+-rw-r--r-- root/root        74 2024-03-18 17:11 etc/apache2/mods-available/vhost_alias.load
+-rw-r--r-- root/root        68 2024-03-18 17:11 etc/apache2/mods-available/setenvif.load
+-rw-r--r-- root/root        62 2024-03-18 17:11 etc/apache2/mods-available/http2.load
+-rw-r--r-- root/root        76 2024-03-18 17:11 etc/apache2/mods-available/asis.load
+-rw-r--r-- root/root        78 2024-03-18 17:11 etc/apache2/mods-available/socache_shmcb.load
+-rw-r--r-- root/root       116 2024-03-18 17:11 etc/apache2/mods-available/lbmethod_bybusyness.load
+-rw-r--r-- root/root       116 2024-03-18 17:11 etc/apache2/mods-available/lbmethod_byrequests.load
+-rw-r--r-- root/root        68 2024-03-18 17:11 etc/apache2/mods-available/imagemap.load
+-rw-r--r-- root/root       115 2024-03-18 19:11 etc/apache2/mods-available/cgid.conf
+-rw-r--r-- root/root        74 2024-03-18 17:11 etc/apache2/mods-available/negotiation.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/expires.load
+-rw-r--r-- root/root        58 2024-03-18 17:11 etc/apache2/mods-available/dbd.load
+-rw-r--r-- root/root        78 2024-03-18 17:11 etc/apache2/mods-available/socache_redis.load
+-rw-r--r-- root/root       104 2024-03-18 17:11 etc/apache2/mods-available/authz_groupfile.load
+-rw-r--r-- root/root        93 2024-03-18 17:11 etc/apache2/mods-available/proxy_hcheck.load
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/brotli.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/userdir.load
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/authn_file.load
+-rw-r--r-- root/root        62 2024-03-18 17:11 etc/apache2/mods-available/cache.load
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/usertrack.load
+-rw-r--r-- root/root        68 2024-03-18 17:11 etc/apache2/mods-available/remoteip.load
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/authn_core.load
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/dump_io.load
+-rw-r--r-- root/root        90 2024-03-18 17:11 etc/apache2/mods-available/authnz_ldap.load
+-rw-r--r-- root/root       182 2024-03-18 17:11 etc/apache2/mods-available/heartmonitor.load
+-rw-r--r-- root/root        60 2024-03-18 17:11 etc/apache2/mods-available/echo.load
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/substitute.load
+-rw-r--r-- root/root        82 2024-03-18 17:11 etc/apache2/mods-available/include.load
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/dialup.load
+-rw-r--r-- root/root        84 2024-03-18 17:11 etc/apache2/mods-available/deflate.load
+-rw-r--r-- root/root        79 2024-03-18 17:11 etc/apache2/mods-available/dav_fs.load
+-rw-r--r-- root/root        74 2024-03-18 17:11 etc/apache2/mods-available/slotmem_shm.load
+-rw-r--r-- root/root        93 2024-03-18 17:11 etc/apache2/mods-available/session_dbd.load
+-rw-r--r-- root/root        94 2024-03-18 17:11 etc/apache2/mods-available/auth_basic.load
+-rw-r--r-- root/root        99 2024-03-18 17:11 etc/apache2/mods-available/session_crypto.load
+-rw-r--r-- root/root        95 2024-03-18 17:11 etc/apache2/mods-available/proxy_express.load
+-rw-r--r-- root/root        68 2024-03-18 17:11 etc/apache2/mods-available/dav_lock.load
+-rw-r--r-- root/root        62 2024-03-18 17:11 etc/apache2/mods-available/ident.load
+-rw-r--r-- root/root        58 2024-03-18 17:11 etc/apache2/mods-available/env.load
+-rw-r--r-- root/root        96 2024-03-18 17:11 etc/apache2/mods-available/auth_digest.load
+-rw-r--r-- root/root        89 2024-03-18 17:11 etc/apache2/mods-available/proxy_scgi.load
+-rw-r--r-- root/root       571 2024-03-18 19:11 etc/apache2/mods-available/mpm_prefork.conf
+-rw-r--r-- root/root        74 2024-03-18 17:11 etc/apache2/mods-available/authnz_fcgi.load
+-rw-r--r-- root/root        89 2024-03-18 17:11 etc/apache2/mods-available/proxy_fcgi.load
+-rw-r--r-- root/root        58 2024-03-18 17:11 etc/apache2/mods-available/lua.load
+-rw-r--r-- root/root      2511 2024-03-18 19:11 etc/apache2/mods-available/proxy_html.conf
+-rw-r--r-- root/root        94 2024-03-18 17:11 etc/apache2/mods-available/authz_user.load
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/suexec.load
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/reqtimeout.load
+-rw-r--r-- root/root        93 2024-03-18 17:11 etc/apache2/mods-available/proxy_fdpass.load
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/filter.load
+-rw-r--r-- root/root       114 2024-03-18 17:11 etc/apache2/mods-available/lbmethod_heartbeat.load
+-rw-r--r-- root/root        76 2024-03-18 17:11 etc/apache2/mods-available/log_forensic.load
+-rw-r--r-- root/root        89 2024-03-18 17:11 etc/apache2/mods-available/file_cache.load
+-rw-r--r-- root/root       843 2024-03-18 19:11 etc/apache2/mods-available/alias.conf
+-rw-r--r-- root/root       100 2024-03-18 17:11 etc/apache2/mods-available/auth_form.load
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/authn_dbm.load
+-rw-r--r-- root/root        84 2024-03-18 17:11 etc/apache2/mods-available/socache_memcache.load
+-rw-r--r-- root/root       114 2024-03-18 17:11 etc/apache2/mods-available/lbmethod_bytraffic.load
+-rw-r--r-- root/root       822 2024-03-18 19:11 etc/apache2/mods-available/proxy.conf
+-rw-r--r-- root/root      1190 2024-03-18 19:11 etc/apache2/mods-available/reqtimeout.conf
+-rw-r--r-- root/root        97 2024-03-18 19:11 etc/apache2/mods-available/ssl.load
+-rw-r--r-- root/root      3110 2024-03-18 19:11 etc/apache2/mods-available/ssl.conf
+-rw-r--r-- root/root        97 2024-03-18 17:11 etc/apache2/mods-available/proxy_http2.load
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/unique_id.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/xml2enc.load
+-rw-r--r-- root/root       189 2024-03-18 19:11 etc/apache2/mods-available/proxy_ftp.conf
+-rw-r--r-- root/root        99 2024-03-18 17:11 etc/apache2/mods-available/session_cookie.load
+-rw-r--r-- root/root        62 2024-03-18 17:11 etc/apache2/mods-available/macro.load
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/mime_magic.load
+-rw-r--r-- root/root        74 2024-03-18 17:11 etc/apache2/mods-available/socache_dbm.load
+-rw-r--r-- root/root        89 2024-03-18 17:11 etc/apache2/mods-available/proxy_http.load
+-rw-r--r-- root/root       176 2024-03-18 17:11 etc/apache2/mods-available/heartbeat.load
+-rw-r--r-- root/root       121 2024-03-18 19:11 etc/apache2/mods-available/ldap.conf
+-rw-r--r-- root/root       108 2024-03-18 17:11 etc/apache2/mods-available/mpm_prefork.load
+-rw-r--r-- root/root      1240 2024-03-18 19:11 etc/apache2/mods-available/http2.conf
+-rw-r--r-- root/root       324 2024-03-18 19:11 etc/apache2/mods-available/userdir.conf
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/speling.load
+-rw-r--r-- root/root        97 2024-03-18 17:11 etc/apache2/mods-available/proxy_html.load
+-rw-r--r-- root/root        95 2024-03-18 17:11 etc/apache2/mods-available/proxy_connect.load
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/authz_core.load
+-rw-r--r-- root/root        74 2024-03-18 17:11 etc/apache2/mods-available/authz_owner.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/request.load
+-rw-r--r-- root/root       120 2024-03-18 19:11 etc/apache2/mods-available/mime_magic.conf
+-rw-r--r-- root/root       377 2024-03-18 19:11 etc/apache2/mods-available/actions.conf
+-rw-r--r-- root/root        72 2024-03-18 17:11 etc/apache2/mods-available/authn_anon.load
+-rw-r--r-- root/root       668 2024-03-18 19:11 etc/apache2/mods-available/mpm_event.conf
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/buffer.load
+-rw-r--r-- root/root       724 2024-03-18 19:11 etc/apache2/mods-available/negotiation.conf
+-rw-r--r-- root/root       157 2024-03-18 19:11 etc/apache2/mods-available/dir.conf
+-rw-r--r-- root/root       460 2024-03-18 19:11 etc/apache2/mods-available/deflate.conf
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/reflector.load
+-rw-r--r-- root/root        66 2024-03-18 17:11 etc/apache2/mods-available/actions.load
+-rw-r--r-- root/root        58 2024-03-18 17:11 etc/apache2/mods-available/cgi.load
+-rw-r--r-- root/root        56 2024-03-18 17:11 etc/apache2/mods-available/md.load
+-rw-r--r-- root/root       347 2024-03-18 19:11 etc/apache2/mods-available/proxy_balancer.conf
+-rw-r--r-- root/root        87 2024-03-18 17:11 etc/apache2/mods-available/proxy_ajp.load
+-rw-r--r-- root/root        60 2024-03-18 17:11 etc/apache2/mods-available/mime.load
+-rw-r--r-- root/root       106 2024-03-18 17:11 etc/apache2/mods-available/mpm_event.load
+-rw-r--r-- root/root      1373 2024-03-18 19:11 etc/apache2/mods-available/setenvif.conf
+-rw-r--r-- root/root        58 2024-03-18 17:11 etc/apache2/mods-available/sed.load
+-rw-r--r-- root/root        95 2024-03-18 17:11 etc/apache2/mods-available/cache_socache.load
+-rw-r--r-- root/root        91 2024-03-18 17:11 etc/apache2/mods-available/proxy_uwsgi.load
+-rw-r--r-- root/root        85 2024-03-18 17:11 etc/apache2/mods-available/authn_dbd.load
+-rw-r--r-- root/root        76 2024-03-18 17:11 etc/apache2/mods-available/allowmethods.load
+-rw-r--r-- root/root       100 2024-03-18 17:11 etc/apache2/mods-available/access_compat.load
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/autoindex.load
+-rw-r--r-- root/root        89 2024-03-18 17:11 etc/apache2/mods-available/cache_disk.load
+-rw-r--r-- root/root        85 2024-03-18 17:11 etc/apache2/mods-available/ratelimit.load
+-rw-r--r-- root/root       836 2024-03-18 19:11 etc/apache2/mods-available/mpm_worker.conf
+-rw-r--r-- root/root        97 2024-03-18 17:11 etc/apache2/mods-available/proxy_wstunnel.load
+-rw-r--r-- root/root        83 2024-03-18 19:11 etc/apache2/mods-available/dav_fs.conf
+-rw-r--r-- root/root      3374 2024-03-18 19:11 etc/apache2/mods-available/autoindex.conf
+-rw-r--r-- root/root       115 2024-03-18 17:11 etc/apache2/mods-available/proxy_balancer.load
+-rw-r--r-- root/root        64 2024-03-18 17:11 etc/apache2/mods-available/status.load
+-rw-r--r-- root/root        60 2024-03-18 17:11 etc/apache2/mods-available/data.load
+-rw-r--r-- root/root        96 2024-03-18 17:11 etc/apache2/mods-available/authz_dbd.load
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/log_debug.load
+-rw-r--r-- root/root        87 2024-03-18 17:11 etc/apache2/mods-available/proxy_ftp.load
+-rw-r--r-- root/root        70 2024-03-18 17:11 etc/apache2/mods-available/cern_meta.load
+-rw-r--r-- root/root        92 2024-03-18 17:11 etc/apache2/mods-available/authz_dbm.load
+-rw-r--r-- root/root        60 2024-03-18 17:11 etc/apache2/mods-available/ldap.load
+-rw-r--r-- root/root      7224 2024-03-18 19:11 etc/apache2/apache2.conf
+-rw-r--r-- root/root     31063 2024-03-18 17:11 etc/apache2/magic
+-rw-r--r-- root/root      1782 2024-03-18 17:11 etc/apache2/envvars
+-rw-r--r-- root/root       322 2025-03-23 19:21 etc/apache2/ports.conf
+drwxr-xr-x root/root         0 2025-03-23 19:13 etc/apache2/sites-enabled/
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/sites-enabled/000-default.conf -> ../sites-available/000-default.conf
+drwxr-xr-x root/root         0 2025-03-23 19:13 etc/apache2/sites-available/
+-rw-r--r-- root/root      6338 2024-03-18 19:11 etc/apache2/sites-available/default-ssl.conf
+-rw-r--r-- root/root      1332 2024-03-18 19:11 etc/apache2/sites-available/000-default.conf
+drwxr-xr-x root/root         0 2025-03-23 19:13 etc/apache2/conf-available/
+-rw-r--r-- root/root       315 2024-03-18 19:11 etc/apache2/conf-available/charset.conf
+-rw-r--r-- root/root       189 2024-03-18 19:11 etc/apache2/conf-available/other-vhosts-access-log.conf
+-rw-r--r-- root/root       455 2024-03-18 19:11 etc/apache2/conf-available/serve-cgi-bin.conf
+-rw-r--r-- root/root      3224 2024-03-18 19:11 etc/apache2/conf-available/localized-error-pages.conf
+-rw-r--r-- root/root      2174 2024-03-18 19:11 etc/apache2/conf-available/security.conf
+drwxr-xr-x root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/authz_host.load -> ../mods-available/authz_host.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/mime.conf -> ../mods-available/mime.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/alias.load -> ../mods-available/alias.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/status.conf -> ../mods-available/status.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/dir.load -> ../mods-available/dir.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/setenvif.load -> ../mods-available/setenvif.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/negotiation.load -> ../mods-available/negotiation.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/authn_file.load -> ../mods-available/authn_file.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/authn_core.load -> ../mods-available/authn_core.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/deflate.load -> ../mods-available/deflate.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/auth_basic.load -> ../mods-available/auth_basic.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/env.load -> ../mods-available/env.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/authz_user.load -> ../mods-available/authz_user.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/reqtimeout.load -> ../mods-available/reqtimeout.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/filter.load -> ../mods-available/filter.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/alias.conf -> ../mods-available/alias.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/reqtimeout.conf -> ../mods-available/reqtimeout.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/authz_core.load -> ../mods-available/authz_core.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/mpm_event.conf -> ../mods-available/mpm_event.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/negotiation.conf -> ../mods-available/negotiation.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/dir.conf -> ../mods-available/dir.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/deflate.conf -> ../mods-available/deflate.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/mime.load -> ../mods-available/mime.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/mpm_event.load -> ../mods-available/mpm_event.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/setenvif.conf -> ../mods-available/setenvif.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/access_compat.load -> ../mods-available/access_compat.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/autoindex.load -> ../mods-available/autoindex.load
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/autoindex.conf -> ../mods-available/autoindex.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/mods-enabled/status.load -> ../mods-available/status.load
+drwxr-xr-x root/root         0 2025-03-23 19:13 etc/apache2/conf-enabled/
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/conf-enabled/charset.conf -> ../conf-available/charset.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/conf-enabled/other-vhosts-access-log.conf -> ../conf-available/other-vhosts-access-log.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/conf-enabled/serve-cgi-bin.conf -> ../conf-available/serve-cgi-bin.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/conf-enabled/localized-error-pages.conf -> ../conf-available/localized-error-pages.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:13 etc/apache2/conf-enabled/security.conf -> ../conf-available/security.conf
+drwxr-xr-x root/root         0 2025-03-23 19:44 var/www/html/
+-rw-r--r-- root/root       612 2025-03-23 19:44 var/www/html/index.nginx-debian.html
+-rw-r--r-- root/root     10671 2025-03-23 19:13 var/www/html/index.html
+Apache Backup Completed

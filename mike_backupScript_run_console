@@ -1,0 +1,63 @@
+mike@RIKSLAPTOP:~$ sudo ./mike_backup.sh
+tar: Removing leading `/' from member names
+/etc/nginx/
+/etc/nginx/modules-available/
+/etc/nginx/fastcgi.conf
+tar: Removing leading `/' from hard link targets
+/etc/nginx/snippets/
+/etc/nginx/snippets/fastcgi-php.conf
+/etc/nginx/snippets/snakeoil.conf
+/etc/nginx/mime.types
+/etc/nginx/win-utf
+/etc/nginx/proxy_params
+/etc/nginx/scgi_params
+/etc/nginx/modules-enabled/
+/etc/nginx/modules-enabled/50-mod-http-image-filter.conf
+/etc/nginx/modules-enabled/50-mod-http-geoip2.conf
+/etc/nginx/modules-enabled/50-mod-stream.conf
+/etc/nginx/modules-enabled/70-mod-stream-geoip2.conf
+/etc/nginx/modules-enabled/50-mod-mail.conf
+/etc/nginx/modules-enabled/50-mod-http-xslt-filter.conf
+/etc/nginx/sites-enabled/
+/etc/nginx/sites-enabled/default
+/etc/nginx/fastcgi_params
+/etc/nginx/koi-utf
+/etc/nginx/koi-win
+/etc/nginx/uwsgi_params
+/etc/nginx/conf.d/
+/etc/nginx/sites-available/
+/etc/nginx/sites-available/default
+/etc/nginx/nginx.conf
+/usr/share/nginx/html/
+/usr/share/nginx/html/index.html
+Contents of /backups/nginx_backup_2025-03-23.tar.gz:
+drwxr-xr-x root/root         0 2025-03-23 19:48 etc/nginx/
+drwxr-xr-x root/root         0 2025-02-15 00:10 etc/nginx/modules-available/
+-rw-r--r-- root/root      1125 2023-05-30 23:01 etc/nginx/fastcgi.conf
+drwxr-xr-x root/root         0 2025-03-23 19:48 etc/nginx/snippets/
+-rw-r--r-- root/root       423 2023-05-30 23:01 etc/nginx/snippets/fastcgi-php.conf
+-rw-r--r-- root/root       217 2023-05-30 23:01 etc/nginx/snippets/snakeoil.conf
+-rw-r--r-- root/root      3957 2023-05-30 23:01 etc/nginx/mime.types
+-rw-r--r-- root/root      3071 2023-05-30 23:01 etc/nginx/win-utf
+-rw-r--r-- root/root       180 2023-05-30 23:01 etc/nginx/proxy_params
+-rw-r--r-- root/root       636 2023-05-30 23:01 etc/nginx/scgi_params
+drwxr-xr-x root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/50-mod-http-image-filter.conf -> /usr/share/nginx/modules-available/mod-http-image-filter.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/50-mod-http-geoip2.conf -> /usr/share/nginx/modules-available/mod-http-geoip2.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/50-mod-stream.conf -> /usr/share/nginx/modules-available/mod-stream.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/70-mod-stream-geoip2.conf -> /usr/share/nginx/modules-available/mod-stream-geoip2.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/50-mod-mail.conf -> /usr/share/nginx/modules-available/mod-mail.conf
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/modules-enabled/50-mod-http-xslt-filter.conf -> /usr/share/nginx/modules-available/mod-http-xslt-filter.conf
+drwxr-xr-x root/root         0 2025-03-23 19:48 etc/nginx/sites-enabled/
+lrwxrwxrwx root/root         0 2025-03-23 19:48 etc/nginx/sites-enabled/default -> /etc/nginx/sites-available/default
+-rw-r--r-- root/root      1055 2023-05-30 23:01 etc/nginx/fastcgi_params
+-rw-r--r-- root/root      2837 2023-05-30 23:01 etc/nginx/koi-utf
+-rw-r--r-- root/root      2223 2023-05-30 23:01 etc/nginx/koi-win
+-rw-r--r-- root/root       664 2023-05-30 23:01 etc/nginx/uwsgi_params
+drwxr-xr-x root/root         0 2025-02-15 00:10 etc/nginx/conf.d/
+drwxr-xr-x root/root         0 2025-03-23 20:35 etc/nginx/sites-available/
+-rw-r--r-- root/root      2504 2025-03-23 20:35 etc/nginx/sites-available/default
+-rw-r--r-- root/root      1447 2023-05-30 23:01 etc/nginx/nginx.conf
+drwxr-xr-x root/root         0 2025-03-23 20:06 usr/share/nginx/html/
+-rw-r--r-- root/root       612 2020-04-21 19:39 usr/share/nginx/html/index.html
+Nginx Backup Completed
