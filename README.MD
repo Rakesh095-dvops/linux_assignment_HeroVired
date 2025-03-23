@@ -261,12 +261,12 @@ Both servers require regular backups to a secure location for disaster recovery.
                 -```0 0 * * 2 /home/mike/mike_backup.sh```
 6. Verification and Monitoring:
 
-    - ***Check Cron Jobs:***
+    - ***Check Cron Jobs:***:
          After adding the cron jobs, you can verify they are scheduled by running crontab -l as each user.
-    -***Check the /backups/ directory***: 
-        After the first Tuesday after setup, verify that the backup files apache_backup_YYYY-MM-DD.tar.gz and nginx_backup_YYYY-MM-DD.tar.gz are created in the /backups/ directory.
-    -***Check the /var/log/backup_log{APACHE2/NGINX}.txt file***: 
-        Examine this file to see the output of the backup verification steps. This provides a log of successful backups and any potential errors. You might need to create this file and ensure it has the correct permissions for the users to write to it.
+    - ***Check the /backups/ directory***: 
+        After the first Tuesday after setup, verify that the backup files apache_backup_YYYY-MM-DD.tar.gz and nginx_backup_YYYY-MM-DD.tar.gz are created in the /backups/            directory.
+    - ***Check the /var/log/backup_log{APACHE2/NGINX}.txt file*** : 
+        Examine this file to see the output of the backup verification steps. This provides a log of successful backups and any potential errors. You might need to create           this file and ensure it has the correct permissions for the users to write to it.
 
 
 
