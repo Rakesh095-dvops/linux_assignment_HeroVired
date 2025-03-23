@@ -43,16 +43,16 @@ ____
         touch system_monitor.sh
         chmod +x system_monitor.sh
         ```
-    - Run the script and provide argument to run for multiple mount points . using sudo 
+    - Run the script and provide an argument to run for multiple mount points. using sudo 
         ```
         dmdevops@RIKSLAPTOP:~/codebase/envSetup/monitor$ sudo ./system_monitor.sh "/home/dmdevops/codebase" "/home/dmdevops/codebase/envSetup/monitor"
         Starting script...
         --- CPU and Memory Usage --- started
         --- CPU and Memory Usage  --- completed
-        --- Disk Usage anaysis--- started
-        --- Disk Usage anaysis --- completed
-        --- Resource-Intensive Processes analyis --- started
-        --- Resource-Intensive Processes anayis --- completed
+        --- Disk Usage analysis --- started
+        --- Disk Usage analysis --- completed
+        --- Resource-Intensive Processes analysis --- started
+        --- Resource-Intensive Processes analysis --- completed
         ---starting another iteration press Ctrl+C to terminate the script
         Starting script...
         ^C
